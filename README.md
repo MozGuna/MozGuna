@@ -36,7 +36,7 @@ The MozGuna will:
 
 MozGuna is started under Mozilla Open Leadership Program by - [Shubhendra Singh Chauhan][link_withshubh], [Abhishek Pratap Singh Chauhan][link_abhi8953] - are undergraduate students pursuing bachelors of technology in Computer Science & Engineering from Jaypee University of Engineering and Technology.
 
-The project is mentored by the [Nikesh Balami][link_nikeshbalami] - He is the Co-founder and Chief Executive Office of Open Knowledge Nepal. Know more about him [here][link_neekes] 
+The project is mentored by the [Nikesh Balami][link_nikeshbalami] - He is the Co-founder and Chief Executive Officer of Open Knowledge Nepal. Know more about him [here][link_neekes] 
 
 
 ## Get involved
